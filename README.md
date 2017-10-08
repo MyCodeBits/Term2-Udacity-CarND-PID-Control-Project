@@ -16,6 +16,9 @@ Self-Driving Car Engineer Nanodegree Program
  " target="_blank"><img src="http://img.youtube.com/vi/er8Sz8at1mg/0.jpg"
  alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
+
+**reflection.txt** file explains paameter selection.
+
 ## OUTPUT IMAGES
 
 ![alt text][image4]
